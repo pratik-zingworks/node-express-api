@@ -1,0 +1,4 @@
+{
+    "userApi" : "https://jsonplaceholder.typicode.com/users",
+    "localHostApi" : "http://localhost:8000/"    
+}
